@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "name": "Vikash Karodiya",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "7340119949",
+      "email": "kirad@gmail.com",
+      "company": "GFG",
+      "title": "Trainee",
+      "groupId": "2",
+      "id": "XTPrrZm"
+    },
+    {
+      "name": "Pooja Sharma",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "9824426166",
+      "email": "k@gnnm.com",
+      "company": "tcs",
+      "title": "AsE",
+      "groupId": "3",
+      "id": "jFFZ1mS"
+    },
+    {
+      "name": "aggag",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "5252542",
+      "email": "2016kuec2041@iiitkota.ac.in",
+      "company": "GFG",
+      "title": "Sdadda",
+      "groupId": "1",
+      "id": "V64braT"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
